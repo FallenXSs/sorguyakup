@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://hizliresim.com/f4hx94n" alt="Logo"></p>
+<p style="text-align:center;"><img src="https://i.hizliresim.com/f4hx94n.jpg" alt="Logo"></p>
 
 # Fallen V2
 bu kodu kullanarak kendi sorgu botunu kura bilirsin
