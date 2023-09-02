@@ -18,7 +18,7 @@ bot = telebot.TeleBot("6086089724:AAEOShd8YmARkpjgJcelI1GKSxgpXlprR3A")
 
 
 
-print("BOT ÇALIŞIYOR"
+print("BOT ÇALIŞIYOR")
 print("Fallen PROJECT 2.5 </>;")
 
 
